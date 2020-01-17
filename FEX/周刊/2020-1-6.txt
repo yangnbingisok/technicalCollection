@@ -1,0 +1,69 @@
+业界会议
+
+SEE Conf 2020 - 蚂蚁金服体验科技大会
+https://seeconf.antfin.com/
+https://mp.weixin.qq.com/s/JcyltMcC2tNm9yY6tvt09w
+玉伯的主题演讲：体验科技与好的产品。欢迎围观：https://www.zhihu.com/question/363807174 期待演讲视频和相关文章。
+
+深阅读
+
+Good times create weak men
+https://tonsky.me/blog/good-times-weak-men/
+In Software Disenchantment we’ve seen how software has degraded in the past two decades. Recently Jonathan Blow gave a talk where he explained why it might be happening. In programming, we are developing abstractions at an alarming rate. When enough of those are stacked, it becomes impossible to figure out or control what’s going on down the stack. This is where my contribution begins: I believe I have found some pretty vivid examples of how the ladder of abstractions has started to fall and nobody can do anything about it now because we all are used to work only at the very tip of it.
+
+Drawing In Code: Pencils, Pixels, Process
+https://www.artnome.com/news/2019/12/29/drawing-in-code-pencils-pixels-process
+We must expect great innovations to transform the entire technique of the arts, thereby affecting artistic invention itself and perhaps even bringing about an amazing change in our very notion of art.
+
+The 2010s in Software Development
+https://blog.pragmaticengineer.com/the-decade-in-review-in-software-development/
+As I am doing a lookback on 2010-2020, here are the major changes I’ve observed on software engineering. If this decade proves anything, it is that technology keeps changing and evolving. But, there is still some stability: Java and JIRA. Let’s see if they will survive the next decade as well, and where the trends of 2020 will end up that time.
+
+A WebAssembly Powered Augmented Reality Sudoku Solver
+https://blog.scottlogic.com/2020/01/03/webassembly-sudoku-solver.html
+The Christmas holidays are a great time for pursuing ‘pet’ projects and trying out new things. This past year I’ve been watching WebAssembly evolve and wanted to create a fun project that allowed me to put it to good use. Over the past couple of weeks I created an Augmented Reality Suduko solver: This project makes use of the WebAssembly build of OpenCV (a C++ computer vision library), Tensorflow (a machine learning library) and a solver written in Rust. It neatly demonstrates how WebAssembly allows you to write performance-critical web-based applications in a wide range of languages.
+
+How To Use Correctly JavaScript Utility Libraries
+https://dmitripavlutin.com/javascript-utility-libraries/
+The big JavaScript bundle is a common performance problem in Frontend development. Nobody likes slow, heavy applications and looking at the loading spinner. An impact on the bundle size has the utility libraries: collections of functions implementing common tasks (finding uniq items of an array, formatting dates, etc). Examples of utility libraries in JavaScript are Lodash, Ramda, Date-fns, Math.js. Let’s discuss when it makes sense to use utility libraries. And importantly, how to integrate libraries to minimally affect the bundle size.
+
+Scaling React Server-Side Rendering
+https://arkwright.github.io/scaling-react-server-side-rendering.html
+I had the opportunity to work on scaling a React rendering service, adapting a fixed hardware provision to deal with increasing load. Over the course of many months, incremental improvements were made to the system to enable it to cope with demand. I thought it might be useful to share the more interesting insights that I gained during this process.
+
+The Power of Simplifying Large Components in React
+https://medium.com/better-programming/the-power-of-simplifying-large-components-in-react-c0d15fa88f70
+Simplification is an enhancement
+
+Why Android Developers should pay attention to Flutter in 2020
+https://blog.codemagic.io/why-android-developers-should-pay-attention-to-flutter-in-2020/
+https://blog.codemagic.io/why-ios-devs-should-pay-attention-to-flutter-in-2020/
+https://blog.codemagic.io/flutter-vs-ios-android-reactnative-xamarin/
+Native Android has been in the market for a really long period of time. Also it is very stable and gives a great performance across various sizes of Android devices. So, why should you look at some cross-platform solution, like Flutter? Though native Android provides a satisfying performance, but it comes at a cost of huge amount of boilerplate code, which restricts the innovation and creativity of a developer. Let’s discuss it in more details.
+
+了解什么是微前端
+https://mp.weixin.qq.com/s/AeJrrvXGTOiIvOcxEQLHrQ
+作为前端开发人员，这些年来你一直在开发单体应用，即使你已经知道这是一个不好的做法。您将代码划分为组件，使用 require 或 import 并将package.json中定义的npm包或已安装的子git仓库添加到项目中，但最终构建了一个整体。是时候改变它了。
+
+llhttp是如何使Node.js性能翻倍的？
+https://zhuanlan.zhihu.com/p/100660049
+如果你关注 Node.js 社区，那么你一定记得 Node.js v12 一个非常重磅的功能就是，内核的 HTTP Parser 默认使用 llhttp，取代了老旧的 http-parser，性能提升了 156%。 但知其然也要知其所以然，llhttp 是如何做到这一点的呢？
+
+小程序跨框架开发的探索与实践
+https://aotu.io/notes/2020/01/02/gmtc/index.html
+随着小程序开发的热度上升，小程序开发框架也层出不穷。但目前每个框架都会绑定一个专属 DSL，如类 React 或者类 Vue，在一个框架内，开发者无法根据团队技术栈自由选择 DSL，同时也无法共享框架本身的生态与工具。本次分享将为大家介绍 Taro 如何将各种语法的前端框架运行在小程序上，讨论一个框架支持多 DSL 的实现探索，使得开发者可以使用任意热门框架/语法/DSL 来编写小程序应用，同时复用相关生态。
+
+Storybook Docs for new frameworks
+https://medium.com/storybookjs/storybook-docs-for-new-frameworks-b1f6090ee0ea
+Best practice docs for Vue, Angular, Web components, and Ember.
+
+Uber Visualization Highlights: Displaying City Street Speed Clusters with SpeedsUp
+https://eng.uber.com/visualization-city-speeds-machine-learning-speedsup/
+Uber’s Data Visualization team builds software that enables us to better understand how cities move through dynamic visualizations. The Uber Engineering Blog periodically highlights visualizations that showcase how these technologies can turn aggregated data into actionable insights.
+
+Dealing with links in Next.js
+https://blog.logrocket.com/dealing-with-links-in-next-js/
+In this article, I’m going to explain two of my techniques for isolating routing in your application. I use Next as an example, but they can be applied to pretty much all routing libraries: Use a custom Link component, Have all paths in a single file.
+
+The Power of Elm in JavaScript https://medium.com/javascript-in-plain-english/the-power-of-elm-in-javascript-816b127e4553
+Since first learning of Elm, I’ve only heard good things. I’m convinced Elm could become the future of front-end development in the coming years(or maybe Reason?). Here are some blog post
